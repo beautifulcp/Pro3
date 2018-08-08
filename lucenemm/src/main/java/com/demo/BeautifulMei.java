@@ -11,5 +11,15 @@ public class BeautifulMei {
 	public void setAge(String age) {
 		this.age = age;
 	}
+	
+	private String name;
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
 
 }
