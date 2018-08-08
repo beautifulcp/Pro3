@@ -1,6 +1,15 @@
 package com.demo;
 
 public class BeautifulMei {
+	private int id;
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
 
 	private String name;
 
