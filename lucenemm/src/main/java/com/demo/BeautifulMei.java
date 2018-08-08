@@ -2,6 +2,10 @@ package com.demo;
 
 public class BeautifulMei {
 
+
+	private String name;
+	
+
 	private String age;
 
 	public String getAge() {
@@ -21,5 +25,6 @@ public class BeautifulMei {
 	public void setName(String name) {
 		this.name = name;
 	}
+
 
 }
